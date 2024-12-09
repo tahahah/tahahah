@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on an implementation of Google Deepmind's GameNGen paper with Pacman - reach out if you'd like to chat about this!
+- 🌱 I’m currently learning EfficientML by the legend Song Han
+- 📫 How to reach me: tahaaansari@hotmail.com, tans0004@student.monash.edu
+- Fields I am interested in: Neuro-tech, XR/VR/AR, Diffusion based Generative Models
 <!--
 **tahahah/tahahah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
